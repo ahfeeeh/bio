@@ -122,10 +122,62 @@ Corda
 + Nintendo WiiU - Conectado a um SSD de 240GB, também com muitos games 
 
 Obs: Ainda não tenho a placa de captura. Mas vou providenciar para jogar nativamente do console.
-Obs2: Em breve postarei a lista de toda a coleção e opções de games que possuo.
 
 ### Meus Jogos
 https://ahfeeeh.github.io/meus-jogos/
+
+### Algumas Músicas que consigo tocar (trechos ou riffs)
+	1. Master of Puppets - Metallica 
+	2. The Thing that should not be - Metallica
+	3. Tora Tora - Raimundos
+	4. Fuck the system - System of a Down
+	5. Shame on a nigga - System of a Down 
+	6. Lives - System of a Down 
+	7. Aerials - System of a Down
+	8. Dont stay - Linkin Park
+	9. Du hast - Rammstein 
+	10. papercut - Linkin Park
+	11. The end of the line - Metallica 
+	12. Figure 09 - Linkin Park
+	13. Shortest Straw - Metallica
+	14. Rebellion - Linkin Park
+	15. Attack - System of a Down 
+	16. This cocaine make me feels like in this song - System of a Down 
+	17. Seek and destroy - Metallica
+	18. Blackened - Metallica
+	19. The world long gone - Scars on Broadway
+	20. Protect the land - System of a Down 
+	21. Marmalade - System of a Down
+	22. Stricken - Disturbed
+	23. This cocaine make me feels like in this song - System of a Down
+	24. Sad Satue - System of a Down
+	25. Snowblind - System of a Down 
+	26. Toxicity - System of a Down
+	27. Fight Fire with fire - Metallica
+	28. Sonne - Rammstein 
+	29. Hardwire tô Self destruct - Metallica
+	30. Byob - System of a Down
+	31. Eye of the beholder - Metallica 
+	32. Eu quero ver o oco - Raimundos
+	33. Throught the never - Metallica 
+	34. Wherever i may roam - Metallica
+	35. The god Master - Massacration
+	36. Jump in the fire - Metallica
+	37. For whom the Bell tools - Metallica 
+	38. Genocidal Humanoidz - System of a Down 
+	39. Prison Song - System of a Down
+	40. The four horsemen - Metallica
+	41. Go Go Power Rangers - Styx
+	42. Them Bonés - Alice in Chains
+	43. Lá bamba - Los lobos
+	44. Frayed ends of sanity - Metallica
+	45. And Justice for All - Metallica
+	46. Battery - Metallica
+	47. Indestructible - Disturbed
+	48. Kashimir - Led Zeppelin
+  
+### Sugestões
+https://forms.gle/HQrGh2SdgpGkj3666
 
 ### Metas
 Sem metas para hoje no stream.
