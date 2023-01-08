@@ -11,14 +11,16 @@ Já possuí Nintendo 64, Playstation 1, Playstation 2 e Playstation 3. Porém Ho
 
 Ultimamente tenho jogado em meu PC Gamer também, onde tenho muitos games adquiridos nas DRM's: Steam, Origin, Ubisoft Games e Epic Games. (Fique a vontade para adicionar)
 
-## Fora das cameras, na vida real
-Sou Programador ou Desenvolvedor de Sistemas a 8 anos, atualmente não estou empregado e amarrado em nenhum contrato de longo prazo.
-Porém nunca estou a toa na vida. Sempre tenho coisas para fazer com códigos, seja em projetos pessoais, projetos para meu pai entre outros. (para saber mais @frmichetti)
-Estudo e me atualizo constantemente. (É imprecindivel nessa área)
+## Fora das câmeras, na vida real
+Sou velho de guerra, sempre fui a criança esperta e curiosa, que consertava as coisas, com 10 anos ganhei meu primeiro computador (Windows 98, novidade na época), e me dava muito bem com ele, sempre fui muito pró ativo e autodidata. (Sim, eu comecei a formatar computador meses depois que ganhei ele, e fui evoluindo, instalando jogos e fazendo coisas que muita gente tem dificuldade hoje ou paga para ter).
 
-Também sou guitarrista, metaleiro desde pequeno e gosto de fazer muito barulho, as vezes solto videos tocando um riff aqui e ali... (Pretendo um dia fazer lives mas preciso evoluir muito ainda) Guitarra para mim também é um hobby
+Sou Programador ou Desenvolvedor de Sistemas há 8 anos, porém atuo dentro dessa área a 15 anos profissionalmente (comecei como Analista de Suporte), atualmente não estou empregado e amarrado em nenhum contrato de longo prazo.
+Porém nunca estou à toa na vida. Sempre tenho coisas para fazer com códigos, seja em projetos pessoais, projetos para meu pai entre outros. (para saber mais @frmichetti aqui mesmo no GitHub).
+Estudo e me atualizo constantemente. (É imprescindível nessa área).
 
-E finalmente posso dizer que sou Ex-Patinador, Ex-Atleta dos Patins Aggressive. Foi uma coisa muito boa que aconteceu na minha vida e até que durou bastante, porém tive que parar devido a outros projetos, durou cerca de 8 anos, cultivo meus amigos até hoje. (para saber mais @feehroller)
+Também sou guitarrista, metaleiro desde pequeno e gosto de fazer muito barulho, as vezes solto videos tocando um riff aqui e ali... (Pretendo um dia fazer lives mas preciso evoluir muito ainda). Guitarra para mim também é um hobby.
+
+E finalmente posso dizer que sou Ex-Patinador, Ex-Atleta dos Patins Aggressive. Foi uma coisa muito boa que aconteceu na minha vida e até que durou bastante, porém tive que parar devido a outros projetos, durou cerca de 8 anos, cultivo meus amigos até hoje. (para saber mais @feehroller no YouTube)
 
 
 #### Meu conteúdo
@@ -115,16 +117,20 @@ TV LG 3D Stereoscopico de 42'' - Full HD
 Corda
 
 ### Consoles
-+ Nintendo Wii
++ Nintendo Wii - Conectado a um SSD de 240GB entupido de games
 
-+ Nintendo WiiU
++ Nintendo WiiU - Conectado a um SSD de 240GB, também com muitos games 
 
 Obs: Ainda não tenho a placa de captura. Mas vou providenciar para jogar nativamente do console.
+Obs2: Em breve postarei a lista de toda a coleção e opções de games que possuo.
+
+### Meus Jogos
+https://ahfeeeh.github.io/meus-jogos/
 
 ### Metas
 Sem metas para hoje no stream.
 2023 vai ser o ano da guitarra.
-E continuarei com meus trabalhos como web dev
+E continuarei com meus trabalhos como WEB DEV
 
 ### Doações
 Quer apoiar e incentivar meu canal?
@@ -149,7 +155,7 @@ Doe pelo Paypal (qualquer valor)
 https://www.paypal.com/donate/?business=XWFJUEBVHHWEW&no_recurring=1&item_name=Quer+apoiar+e+incentivar+meu+canal?%0AObs.+N%C3%A3o+se+sinta+obrigado+a+doar+nada+%2C+e+qualquer+valor+%C3%A9+muito+precioso+para+mim&currency_code=BRL
 
 ## Regras
-~~ Não Existem Regras!!! ~~
+~~Não Existem Regras!!!~~
 
 Fique avontade para falar do que quiser e com quem quiser,
 mas mantenha-se dentro da lei, tente não arrumar problemas
@@ -164,7 +170,3 @@ Vai pro castigo...
 ![zuck_ban_card](./ban_card_mini.jpg)
 ![nice_meme](./nice_meme_ban.jpg)
 ![segura_o_ban](./segura_o_ban.jpg)
-
-
-
-
