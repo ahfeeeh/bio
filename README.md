@@ -1,4 +1,4 @@
-# Bio
+# Bio de Ah Feeeh
 Bio e informações das Lives (AhFeeeh)
 
 
@@ -37,7 +37,7 @@ Cheguei ao ponto de ter que criar um mini sistema para gerenciar até o que tenh
 Não posso prometer constância nas minhas transmissões e gravações por enquanto. Stream de conteúdo para mim é apenas um hobby
 
 ### Mídias Sociais
-https://wlo.link/@ahfeeeh
+[https://wlo.link/@ahfeeeh](https://wlo.link/@ahfeeeh)
 
 ### Drm's IDs
 Ubisoft
@@ -125,7 +125,7 @@ Corda
 Obs: Ainda não tenho a placa de captura. Mas vou providenciar para jogar nativamente do console.
 
 ### Meus Jogos
-https://ahfeeeh.github.io/meus-jogos/
+[https://ahfeeeh.github.io/meus-jogos](https://ahfeeeh.github.io/meus-jogos)
 
 ### Algumas Músicas que consigo tocar (trechos ou riffs)
 	1. Master of Puppets - Metallica
@@ -178,7 +178,7 @@ https://ahfeeeh.github.io/meus-jogos/
 	48. Kashimir - Led Zeppelin
   
 ### Sugestões
-https://forms.gle/HQrGh2SdgpGkj3666
+[https://forms.gle/HQrGh2SdgpGkj3666](https://forms.gle/HQrGh2SdgpGkj3666)
 
 ### Metas
 Sem metas para hoje no stream.
@@ -194,15 +194,17 @@ Obs. Não se sinta obrigado a doar nada , e qualquer valor é muito precioso par
 
 Doe pelo Pix (qualquer valor)
 
-https://ahfeeeh.github.io/faz-o-pix/
+[https://ahfeeeh.github.io/faz-o-pix](https://ahfeeeh.github.io/faz-o-pix)
 
 Doe pelo LivePix (tem valor mínimo)
 
-https://widget.livepix.gg/embed/0877bebc-f06d-4289-84d5-5613e9dea661
+[https://widget.livepix.gg/embed/0877bebc-f06d-4289-84d5-5613e9dea661](https://widget.livepix.gg/embed/0877bebc-f06d-4289-84d5-5613e9dea661)
 
 
 <!-- avaliar link doacao streamlabs -->
 <!-- avaliar link doacao picpay -->
+
+
 Doe pelo Paypal (qualquer valor)
 [https://www.paypal.com/donate/?business=XWFJUEBVHHWEW](https://www.paypal.com/donate/?business=XWFJUEBVHHWEW&no_recurring=1&item_name=Quer+apoiar+e+incentivar+meu+canal?%0AObs.+N%C3%A3o+se+sinta+obrigado+a+doar+nada+%2C+e+qualquer+valor+%C3%A9+muito+precioso+para+mim&currency_code=BRL).
 
