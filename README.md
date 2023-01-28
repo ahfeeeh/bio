@@ -15,12 +15,12 @@ Ultimamente tenho jogado em meu PC Gamer também, onde tenho muitos games adquir
 Sou velho de guerra, sempre fui a criança esperta e curiosa, que consertava as coisas, com 10 anos ganhei meu primeiro computador (Windows 98, novidade na época), e me dava muito bem com ele, sempre fui muito pró ativo e autodidata. (Sim, eu comecei a formatar computador meses depois que ganhei ele, e fui evoluindo, instalando jogos e fazendo coisas que muita gente tem dificuldade hoje ou paga para ter).
 
 Sou Programador ou Desenvolvedor de Sistemas há 8 anos, porém atuo dentro dessa área a 15 anos profissionalmente (comecei como Analista de Suporte), atualmente não estou empregado e amarrado em nenhum contrato de longo prazo.
-Porém nunca estou à toa na vida. Sempre tenho coisas para fazer com códigos, seja em projetos pessoais, projetos para meu pai entre outros. (para saber mais @frmichetti aqui mesmo no GitHub).
+Porém nunca estou à toa na vida. Sempre tenho coisas para fazer com códigos, seja em projetos pessoais, projetos para meu pai entre outros. (para saber mais [@frmichetti](https://frmichetti.github.io/intro). aqui mesmo no GitHub).
 Estudo e me atualizo constantemente. (É imprescindível nessa área).
 
 Também sou guitarrista, metaleiro desde pequeno e gosto de fazer muito barulho, as vezes solto videos tocando um riff aqui e ali... (Pretendo um dia fazer lives mas preciso evoluir muito ainda). Guitarra para mim também é um hobby.
 
-E finalmente posso dizer que sou Ex-Patinador, Ex-Atleta dos Patins Aggressive. Foi uma coisa muito boa que aconteceu na minha vida e até que durou bastante, porém tive que parar devido a outros projetos, durou cerca de 8 anos, cultivo meus amigos até hoje. (para saber mais @feehroller no YouTube)
+E finalmente posso dizer que sou Ex-Patinador, Ex-Atleta dos Patins Aggressive.(para saber mais [@feeehroller](https://www.youtube.com/@feeehroller) no Youtube. Foi uma coisa muito boa que aconteceu na minha vida e até que durou bastante, porém tive que parar devido a outros projetos, durou cerca de 8 anos, cultivo meus amigos até hoje. (para saber mais @feehroller no YouTube)
 
 
 #### Meu conteúdo
@@ -29,6 +29,7 @@ Aqui posso jogar de tudo. Desde retrô a jogos de música. Se me diverte está v
 Obs: Tento jogar tudo aquilo que possuo e gastei dinheiro primeiro. Andei acumulando muita coisa e existem jogos que nem ao menos instalei na Steam.
 
 Obs2: Você pode sugerir conteúdo, irei deixar link de formulário de contato anexo.
+[Sugestões de Conteúdo](https://forms.gle/HQrGh2SdgpGkj3666)
 
 Cheguei ao ponto de ter que criar um mini sistema para gerenciar até o que tenho...
 
@@ -43,7 +44,7 @@ Ubisoft
 ahfeeeh
 
 Steam
-ahfeeeh
+[ahfeeeh](https://steamcommunity.com/id/ahfeeeh)
 
 Origin
 ahfeeeh
@@ -127,7 +128,7 @@ Obs: Ainda não tenho a placa de captura. Mas vou providenciar para jogar nativa
 https://ahfeeeh.github.io/meus-jogos/
 
 ### Algumas Músicas que consigo tocar (trechos ou riffs)
-	1. Master of Puppets - Metallica 
+	1. Master of Puppets - Metallica
 	2. The Thing that should not be - Metallica
 	3. Tora Tora - Raimundos
 	4. Fuck the system - System of a Down
@@ -203,8 +204,9 @@ https://widget.livepix.gg/embed/0877bebc-f06d-4289-84d5-5613e9dea661
 <!-- avaliar link doacao streamlabs -->
 <!-- avaliar link doacao picpay -->
 Doe pelo Paypal (qualquer valor)
+[https://www.paypal.com/donate/?business=XWFJUEBVHHWEW](https://www.paypal.com/donate/?business=XWFJUEBVHHWEW&no_recurring=1&item_name=Quer+apoiar+e+incentivar+meu+canal?%0AObs.+N%C3%A3o+se+sinta+obrigado+a+doar+nada+%2C+e+qualquer+valor+%C3%A9+muito+precioso+para+mim&currency_code=BRL).
 
-https://www.paypal.com/donate/?business=XWFJUEBVHHWEW&no_recurring=1&item_name=Quer+apoiar+e+incentivar+meu+canal?%0AObs.+N%C3%A3o+se+sinta+obrigado+a+doar+nada+%2C+e+qualquer+valor+%C3%A9+muito+precioso+para+mim&currency_code=BRL
+
 
 ## Regras
 ~~Não Existem Regras!!!~~
