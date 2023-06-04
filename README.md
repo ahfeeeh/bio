@@ -1,6 +1,8 @@
 # Bio de Ah Feeeh
 Bio e informações das Lives (AhFeeeh)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahfeeeh%2Fbio&count_bg=%23DF0808&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=Visualiza%C3%A7%C3%B5es&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 ### Sobre mim
 Olá e seja bem vindo(a), Sou Felipe R M, tenho 33 anos e ~~sou ou era um viciado~~ em video jogos, sejam eles em consoles ou computadores.
