@@ -5,7 +5,7 @@ Bio e informações das Lives (Ah Feeeh Lipe)
 
 
 ### Sobre mim
-Olá e seja bem vindo(a), Sou Felipe R M, tenho 34 anos e ~~sou ou era um viciado~~ em video jogos, sejam eles em consoles ou computadores.
+Olá e seja bem vindo(a), Sou Felipe R M, nascido no final dos anos 80 e ~~sou ou era um viciado~~ em video jogos, sejam eles em consoles ou computadores.
 Jogo games desde criança, meu primeiro video game foi um Master System 3 (1993 ou 1994),
 Mas também já troquei e evolui os consoles com o passar do tempo.
 
