@@ -1,11 +1,11 @@
-# Bio de Ah Feeeh
-Bio e informações das Lives (AhFeeeh)
+# Bio de Ah Feeeh Lipe
+Bio e informações das Lives (Ah Feeeh Lipe)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahfeeeh%2Fbio&count_bg=%23DF0808&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=Visualiza%C3%A7%C3%B5es&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ### Sobre mim
-Olá e seja bem vindo(a), Sou Felipe R M, tenho 33 anos e ~~sou ou era um viciado~~ em video jogos, sejam eles em consoles ou computadores.
+Olá e seja bem vindo(a), Sou Felipe R M, tenho 34 anos e ~~sou ou era um viciado~~ em video jogos, sejam eles em consoles ou computadores.
 Jogo games desde criança, meu primeiro video game foi um Master System 3 (1993 ou 1994),
 Mas também já troquei e evolui os consoles com o passar do tempo.
 
@@ -39,7 +39,8 @@ Cheguei ao ponto de ter que criar um mini sistema para gerenciar até o que tenh
 Não posso prometer constância nas minhas transmissões e gravações por enquanto. Stream de conteúdo para mim é apenas um hobby
 
 ### Mídias Sociais
-[https://wlo.link/@ahfeeeh](https://wlo.link/@ahfeeeh)
+[Principais Mídias Sociais Aqui](https://link.space/@ahfeeeh)
+
 
 ### Drm's IDs
 Ubisoft
