@@ -17,7 +17,7 @@ Ultimamente tenho jogado em meu PC Gamer também, onde tenho muitos games adquir
 Sou velho de guerra, sempre fui a criança esperta e curiosa, que consertava as coisas, com 10 anos ganhei meu primeiro computador (Windows 98, novidade na época), e me dava muito bem com ele, sempre fui muito pró ativo e autodidata. (Sim, eu comecei a formatar computador meses depois que ganhei ele, e fui evoluindo, instalando jogos e fazendo coisas que muita gente tem dificuldade hoje ou paga para ter).
 
 Sou Programador ou Desenvolvedor de Sistemas há 8 anos, porém atuo dentro dessa área a 15 anos profissionalmente (comecei como Analista de Suporte), atualmente não estou empregado e amarrado em nenhum contrato de longo prazo.
-Porém nunca estou à toa na vida. Sempre tenho coisas para fazer com códigos, seja em projetos pessoais, projetos para meu pai entre outros. (para saber mais [@frmichetti](https://frmichetti.github.io/intro). aqui mesmo no GitHub).
+Porém nunca estou à toa na vida. Sempre tenho coisas para fazer com códigos, seja em projetos pessoais, projetos para meu pai entre outros. 
 Estudo e me atualizo constantemente. (É imprescindível nessa área).
 
 Também sou guitarrista, metaleiro desde pequeno e gosto de fazer muito barulho, as vezes solto videos tocando um riff aqui e ali... (Pretendo um dia fazer lives mas preciso evoluir muito ainda). Guitarra para mim também é um hobby.
