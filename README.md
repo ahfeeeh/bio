@@ -191,8 +191,8 @@ E continuarei com meus trabalhos como WEB DEV
 ### Doações
 Quer apoiar e incentivar meu canal?
 
-Clique neste painel, faça uma doação pelo Paypal, Pix em live com mensagem na tela (tem valor minimo), ou Pix de qualquer quantia a qualquer momento e participe da live com uma mensagem!!
-Sua participação é muito importante para mim
+Clique neste painel, faça uma doação pelo Pix em live com mensagem na tela (tem valor minimo)
+Sua participação e visualização é muito mais importante para mim.
 Obs. Não se sinta obrigado a doar nada , e qualquer valor é muito precioso para mim.
 
 Doe pelo LivePix (tem valor mínimo)
@@ -200,11 +200,6 @@ Doe pelo LivePix (tem valor mínimo)
 
 <!-- avaliar link doacao streamlabs -->
 <!-- avaliar link doacao picpay -->
-
-
-Doe pelo Paypal (qualquer valor)
-[https://www.paypal.com/donate/?business=XWFJUEBVHHWEW](https://www.paypal.com/donate/?business=XWFJUEBVHHWEW&no_recurring=1&item_name=Quer+apoiar+e+incentivar+meu+canal?%0AObs.+N%C3%A3o+se+sinta+obrigado+a+doar+nada+%2C+e+qualquer+valor+%C3%A9+muito+precioso+para+mim&currency_code=BRL).
-
 
 
 ## Regras
