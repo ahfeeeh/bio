@@ -195,14 +195,8 @@ Clique neste painel, faça uma doação pelo Paypal, Pix em live com mensagem na
 Sua participação é muito importante para mim
 Obs. Não se sinta obrigado a doar nada , e qualquer valor é muito precioso para mim.
 
-Doe pelo Pix (qualquer valor)
-
-[https://ahfeeeh.github.io/faz-o-pix](https://ahfeeeh.github.io/faz-o-pix)
-
 Doe pelo LivePix (tem valor mínimo)
-
 [https://widget.livepix.gg/embed/0877bebc-f06d-4289-84d5-5613e9dea661](https://widget.livepix.gg/embed/0877bebc-f06d-4289-84d5-5613e9dea661)
-
 
 <!-- avaliar link doacao streamlabs -->
 <!-- avaliar link doacao picpay -->
